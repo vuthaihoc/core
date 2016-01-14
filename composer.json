@@ -1,6 +1,7 @@
 {
     "name": "flarum/core",
     "description": "A copy of Flarum/Core with some stricks",
+    "version": "0.1.0-beta.4"
     "authors": [
         {
             "name": "Vu Thai Hoc",
