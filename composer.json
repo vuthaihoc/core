@@ -1,10 +1,10 @@
 {
-    "name": "flarum/core",
-    "description": "",
+    "name": "vuthaihoc/core",
+    "description": "A copy of Flarum/Core with some stricks",
     "authors": [
         {
-            "name": "Toby Zerner",
-            "email": "toby@flarum.org"
+            "name": "Vu Thai Hoc",
+            "email": "vuthaihoc.ttud@gmail.com"
         }
     ],
     "require": {
